@@ -1,12 +1,17 @@
-![FreeCAD Beginner Assistant Owl Icon](icons/owl-2.png)
+<img src="bolt.jpg" alt="Bolt - FreeCAD Beginner Assistant Owl Icon" style="width:320px;"/>
 
 # FreeCAD Beginner Assistant (FreeCAD Addon)
 
 
 The FreeCAD Beginner Assistant gives interactive feedback on best practices for beginning FreeCAD users. It does it by analysing a FreeCAD FCStd-file containing at least one part made with the Part Design and Sketcher workbenches and gives real-time or asynchronous feedback, based on best practices, on what was done well and what can be improved by the user.
 
-![FreeCAD Beginner Assistant in the Report View](Screenshots/report-view-freecad-beginner-assistant.jpg)
+![FreeCAD Beginner Assistant Overview](freecad-beginner-assistant-overview.png)
 
+## Getting Started
+1. Install the Beginner Assistant through the Addon Manager.
+2. Open a FreeCAD Document, made with Part Design and Sketcher workbenches.
+3. Switch to the Beginner Assistant workbench
+4. Run the Create Report command.
 
 ## Installation
 1. Download this repo
